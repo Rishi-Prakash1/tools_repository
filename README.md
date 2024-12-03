@@ -14,12 +14,10 @@ Categorized Listings: Tools are grouped by cybersecurity domain for easy navigat
 <li> OSINT (Open-Source Intelligence): Tools for public data gathering and analysis.</li>
 <li> Cryptography: Libraries and tools for encryption, decryption, and cryptanalysis.</li>
   </ul>
+  
 -> Regular Updates: Continuously updated with the latest tools and frameworks.
-
 -> Resource Links: Official documentation, tutorials, and community resources for each tool.
-
 -> Cross-Platform Tools: Includes tools for Windows, Linux, and macOS environments.
-
 -> Contributions Welcome: Open to community suggestions and contributions for tool inclusion.
 
 ## Target Audience
