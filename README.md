@@ -17,8 +17,8 @@ Categorized Listings: Tools are grouped by cybersecurity domain for easy navigat
   
 -> Regular Updates: Continuously updated with the latest tools and frameworks.<br>
 -> Resource Links: Official documentation, tutorials, and community resources for each tool.<br>
--> Cross-Platform Tools: Includes tools for Windows, Linux, and macOS environments.
--> Contributions Welcome: Open to community suggestions and contributions for tool inclusion.
+-> Cross-Platform Tools: Includes tools for Windows, Linux, and macOS environments.<br>
+-> Contributions Welcome: Open to community suggestions and contributions for tool inclusion. <br>
 
 ## Target Audience
 Cybersecurity professionals seeking an organized toolkit for specific tasks.
